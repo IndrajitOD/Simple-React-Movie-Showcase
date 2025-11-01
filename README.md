@@ -7,6 +7,7 @@ https://simple-react-movie-showcase.netlify.app/
 ------
  ## Snapshots
 <img width="1904" height="872" alt="image" src="https://github.com/user-attachments/assets/ac21d543-db85-4947-888c-e81d4c5e0ef0" />
+<img width="571" height="612" alt="image" src="https://github.com/user-attachments/assets/b78e6321-5035-461a-8b3c-c6397931cc5b" />  <img width="407" height="860" alt="image" src="https://github.com/user-attachments/assets/e9e475dd-064b-4195-b685-0d80c2fdfda8" />
 
 ------
 
