@@ -1,8 +1,17 @@
- ## This is a Simple React App i HAve created to practice the fundamentals of react.js 
+ # This is a Simple React App i Have created to practice the fundamentals of react.js
+ In this Webapp i have fetch an api from TMDB using an API key, to get all the details of the movies, including the name, title, release date and the pictures. 
 
- Below are the texts provided as default by react.
+------
+ ### app link 
+https://simple-react-movie-showcase.netlify.app/
+------
+ ## Snapshots
 
- ------
+------
+
+ Below the texts are provided as default by react.
+
+------
  
 # React + Vite
 
@@ -22,10 +31,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 -----
-### app link 
-
-
------
-## Snapshots
-
-
